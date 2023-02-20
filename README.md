@@ -40,10 +40,10 @@ ___
 
 Na página [https://rudineiw.github.io/portfolio-happycode/](https://rudineiw.github.io/portfolio-happycode/) está o resultado final com o portfólio completo dos projetos realizados durante o curso.
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/rudineiw/portfolio-happycode/main/portfolio/thumbnail/estante.png"><img src="https://raw.githubusercontent.com/rudineiw/portfolio-happycode/main/portfolio/thumbnail/estante.png" alt="Estante de livros" title="Estante de livros" height="250"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/rudineiw/portfolio-happycode/main/portfolio/thumbnail/locadora.png"><img src="https://raw.githubusercontent.com/rudineiw/portfolio-happycode/main/portfolio/thumbnail/locadora.png" alt="Locadora de vídeos" title="Locadora de vídeos" height="250"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/rudineiw/portfolio-happycode/main/portfolio/thumbnail/mario.png"><img src="https://raw.githubusercontent.com/rudineiw/portfolio-happycode/main/portfolio/thumbnail/mario.png" alt="Mário Jump" title="Mário Jump" height="250"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/rudineiw/portfolio-happycode/main/portfolio/thumbnail/cartao.png"><img src="https://raw.githubusercontent.com/rudineiw/portfolio-happycode/main/portfolio/thumbnail/cartao.png" alt="Cartão de visita" title="Cartão de visita" height="250"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/rudineiw/portfolio-happycode/main/portfolio/thumbnail/estante.png"><img src="https://raw.githubusercontent.com/rudineiw/portfolio-happycode/main/portfolio/thumbnail/estante.png" alt="Estante de livros" title="Estante de livros" style="width:45%"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/rudineiw/portfolio-happycode/main/portfolio/thumbnail/locadora.png"><img src="https://raw.githubusercontent.com/rudineiw/portfolio-happycode/main/portfolio/thumbnail/locadora.png" alt="Locadora de vídeos" title="Locadora de vídeos" style="width:45%"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/rudineiw/portfolio-happycode/main/portfolio/thumbnail/mario.png"><img src="https://raw.githubusercontent.com/rudineiw/portfolio-happycode/main/portfolio/thumbnail/mario.png" alt="Mário Jump" title="Mário Jump" style="width:45%"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/rudineiw/portfolio-happycode/main/portfolio/thumbnail/cartao.png"><img src="https://raw.githubusercontent.com/rudineiw/portfolio-happycode/main/portfolio/thumbnail/cartao.png" alt="Cartão de visita" title="Cartão de visita" style="width:45%"></a>
 
 ___
 
