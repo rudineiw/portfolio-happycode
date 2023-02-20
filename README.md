@@ -2,11 +2,11 @@
 
 ## Sobre o projeto
 
-Projeto final do **Curso Do Zero ao primero site**, ofertado pelo grupo [+praTI](https://www.maisprati.com.br/).
+Projeto final do **Curso Do Zero ao primero site**, ofertado pelo grupo [+praTI](https://www.maisprati.com.br/){:target="_blank"}.
 
 A proposta é criar um site onepage/portólio com os conhecimentos adquiridos no curso, como HTML, CSS, JavaScript, Bootstrap e publicar no GitHub.
 
-**Veja o site do projeto final em** [https://rudineiw.github.io/portfolio-happycode/](https://rudineiw.github.io/portfolio-happycode/)
+**Veja o site do projeto final em** [https://rudineiw.github.io/portfolio-happycode/](https://rudineiw.github.io/portfolio-happycode/){:target="_blank"}
 
 ___
 
