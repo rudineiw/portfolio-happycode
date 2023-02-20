@@ -1,0 +1,94 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    /* background */
+    background-color: #fff1ce;
+
+    /* tamanho e alinhamento */
+    width:85%; 
+    margin: 0 auto;
+    padding: 0; 
+    
+    /* texto */
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+h1 {
+    margin: 0;
+    text-transform: uppercase;
+}
+img {
+    width: 15%;
+    display: block;
+    margin: auto;
+    border-radius: 20px;
+}
+section {
+    color:#79797a; 
+    margin-bottom: 60px; 
+    border-bottom: 1px solid #ccc; 
+    padding-bottom: 20px;
+    background-color: #fae4ab;
+    padding: 15px;
+    border-radius: 50px;
+}
+section p {
+    text-align: left;
+}
+table {
+    width: 100%; 
+    text-align: left; 
+    margin-bottom: 20px;
+}
+th {
+    font-weight: bold;
+    background-color: #fccf5e; 
+    color: #0f0c64;
+}
+td {
+    background-color: #fde6aa; 
+}
+td, th {
+    border-width: 2px;
+    border-style: solid;
+    border-color: #4e4000;
+    padding: 5px;
+}
+span {
+    color: #0f0c64;
+    font-style: italic;
+}
+ol {
+    list-style-position: inside;
+}
+a {
+    color: #0f0c64;
+    text-decoration: none; 
+}
+a:hover {
+    text-decoration: underline; 
+    color: #8f6d00;
+}
+#topo {
+    text-align: center;
+    background-color: #fae4ab;
+    padding: 20px;
+    border-radius: 0 0 50px 50px;
+}
+#sumario {
+    color: #0f0c64;
+    font-style: italic;
+    margin: 40px 20px;
+}
+.tituloLivro {
+    color: #0f0c64;
+    text-decoration: underline;
+    text-transform: uppercase;
+    padding: 20px;
+    text-align: center;
+}
+.center {
+    text-align: center;
+}

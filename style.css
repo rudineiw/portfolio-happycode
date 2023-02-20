@@ -1,0 +1,153 @@
+/* geral */
+.btn {
+    transition: 0.5s;
+    background-size: 200% auto;
+    border: 0;
+    color: #ffffff;
+}
+.btn-x {
+    background-image: linear-gradient(to right, #3886ad 0%, #c98f94 51%, #236e94 100%);
+  }
+.btn:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #ffffff;
+}
+
+/* menu */
+.navbar a:hover {
+    text-decoration: underline;
+    color: #cccccc;
+}
+
+/* texto hero image */
+.hero-title {
+    font-size: 3.5rem;
+}
+.hero-description {
+    font-size: 2rem;
+}
+.hero-text {
+	text-align: center;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+    color: #ffffff;
+}
+.hero-text a {
+    color: #ffffff;
+}
+.bgimage {
+    height: 100vh;
+    background: url('img/hero-image.jpg');
+    background-size: cover;
+    position: relative;
+}
+
+.glass {
+	height: 44%;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background: rgba(255, 255, 255, 0.05);
+	box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+	backdrop-filter: blur(4.9px);
+	-webkit-backdrop-filter: blur(4.9px);
+}
+
+/* sobre */
+#sobre img {
+    width: 100%;
+    border-radius: 50%;
+    border: #cccccc solid 4px;
+    padding: 3.7px;
+}
+#sobre ul {
+    list-style: none;
+}
+
+/* serviços */
+#servicos .card {
+    min-height: 320px;
+    cursor: pointer;
+    box-shadow: 0px 0px 10px 0px rgb(0 0 0 / 20%);
+}
+.card-title {
+    text-align: center;
+}
+#servicos .card:hover {
+    border: 1px solid #adced6;
+    color: #025569;
+    box-shadow: 0px 0px 10px 0px rgb(0 0 0 / 50%);
+}
+
+/* imagem card portfólio */
+#portfolio .card {
+    min-height: 350px;
+    cursor: pointer;
+    box-shadow: 0px 0px 10px 0px rgb(0 0 0 / 20%);
+}
+#portfolio .card img {
+    width: 100%;
+}
+#portfolio .card:hover {
+    border: 1px solid #adced6;
+    color: #025569;
+    box-shadow: 0px 0px 10px 0px rgb(0 0 0 / 50%);
+}
+
+/* contato */
+.whatsapp {
+    color: #128C7E;
+}
+a:hover.whatsapp {
+    color: #25D366;
+}
+.linkedin {
+    color: #0e76a8;
+}
+a:hover.linkedin {
+    color: #0b5e86;
+}
+.github {
+    color: #333333;
+}
+a:hover.github {
+    color: #000000;
+}
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+.status .erro {
+    color: #ff0015;
+}
+.status .ok {
+    color: #00a028;
+}
+
+/* footer */
+.copy {
+    background-color: rgba(0,0,0, 0.2);
+}
+footer .btn {
+    font-size: 150%;
+    transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+}
+footer .btn:hover {
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+}
