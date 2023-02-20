@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-Projeto final do **Curso Do Zero ao primero site**, ofertado pelo grupo <a href="https://www.maisprati.com.br/" target="_blank">+praTI</a>.
+Projeto final do **Curso Desenvolvimento Front End: do zero ao primero site**, ofertado pelo grupo <a href="https://www.maisprati.com.br/" target="_blank">+praTI</a>.
 
 A proposta é criar um site onepage/portólio com os conhecimentos adquiridos no curso, como HTML, CSS, JavaScript, Bootstrap e publicar no GitHub.
 
