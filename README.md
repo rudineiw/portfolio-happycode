@@ -38,12 +38,13 @@ ___
 
 ## Conheça outros projetos
 
-Nessa link [https://rudineiw.github.io/portfolio-happycode/](https://rudineiw.github.io/portfolio-happycode/) está o resultado final com o portfólio completo dos projetos realizados durante o curso.
+Na página [https://rudineiw.github.io/portfolio-happycode/](https://rudineiw.github.io/portfolio-happycode/) está o resultado final com o portfólio completo dos projetos realizados durante o curso.
 
-![Estante de livros](https://raw.githubusercontent.com/rudineiw/portfolio-happycode/main/portfolio/thumbnail/estante.png "Estante de livros")
-![Locadora de vídeos](https://raw.githubusercontent.com/rudineiw/portfolio-happycode/main/portfolio/thumbnail/locadora.png "Locadora de vídeos")
-![Mário Jump](https://raw.githubusercontent.com/rudineiw/portfolio-happycode/main/portfolio/thumbnail/mario.png "Mário Jump")
-![Cartão de visita](https://raw.githubusercontent.com/rudineiw/portfolio-happycode/main/portfolio/thumbnail/cartao.png "Cartão de visita")
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/rudineiw/portfolio-happycode/main/portfolio/thumbnail/estante.png"><img src="https://raw.githubusercontent.com/rudineiw/portfolio-happycode/main/portfolio/thumbnail/estante.png" alt="Estante de livros" title="Estante de livros" style="max-width: 25%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/rudineiw/portfolio-happycode/main/portfolio/thumbnail/locadora.png"><img src="https://raw.githubusercontent.com/rudineiw/portfolio-happycode/main/portfolio/thumbnail/locadora.png" alt="Locadora de vídeos" title="Locadora de vídeos" style="max-width: 25%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/rudineiw/portfolio-happycode/main/portfolio/thumbnail/mario.png"><img src="https://raw.githubusercontent.com/rudineiw/portfolio-happycode/main/portfolio/thumbnail/mario.png" alt="Mário Jump" title="Mário Jump" style="max-width: 25%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/rudineiw/portfolio-happycode/main/portfolio/thumbnail/cartao.png"><img src="https://raw.githubusercontent.com/rudineiw/portfolio-happycode/main/portfolio/thumbnail/cartao.png" alt="Cartão de visita" title="Cartão de visita" style="max-width: 25%;"></a>
+
 ___
 
 Mais projetos no meu Github [https://github.com/rudineiw](https://github.com/rudineiw).
