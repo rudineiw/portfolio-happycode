@@ -32,7 +32,7 @@ ___
 
 É uma tendência de design aplicada ultimamante em logos e layouts de site. Como resultado observa-se o efeito de vidro sobre o visual de algum elemento, deixando-o desfocado. Veja um exemplo na imagem abaixo:
 
-imagemimagemimagem
+![glassmorphismo](https://user-images.githubusercontent.com/6556314/220132663-8f948d15-2eaa-494a-a4a5-888cc07cf03c.png)
 
 ___
 
