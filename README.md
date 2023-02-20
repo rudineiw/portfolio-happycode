@@ -6,6 +6,8 @@ Projeto final do **Curso Do Zero ao primero site**, ofertado pelo grupo [+praTI]
 
 A proposta é criar um site onepage/portólio com os conhecimentos adquiridos no curso, como HTML, CSS, JavaScript, Bootstrap e publicar no GitHub.
 
+**Veja o site do projeto final em** [https://rudineiw.github.io/portfolio-happycode/](https://rudineiw.github.io/portfolio-happycode/)
+
 ___
 
 ## Estrutura básica
@@ -40,7 +42,7 @@ Nessa link [https://rudineiw.github.io/portfolio-happycode/](https://rudineiw.gi
 
 ![Estante de livros](https://raw.githubusercontent.com/rudineiw/portfolio-happycode/main/portfolio/thumbnail/estante.png "Estante de livros")
 ![Locadora de vídeos](https://raw.githubusercontent.com/rudineiw/portfolio-happycode/main/portfolio/thumbnail/locadora.png "Locadora de vídeos")
-![Mário Jump](https://raw.githubusercontent.com/rudineiw/portfolio-happycode/main/portfolio/thumbnail/mario.pngg "Mário Jump")
+![Mário Jump](https://raw.githubusercontent.com/rudineiw/portfolio-happycode/main/portfolio/thumbnail/mario.png "Mário Jump")
 ![Cartão de visita](https://raw.githubusercontent.com/rudineiw/portfolio-happycode/main/portfolio/thumbnail/cartao.png "Cartão de visita")
 ___
 
