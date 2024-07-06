@@ -4,7 +4,7 @@
 
 Projeto final do **Curso Desenvolvimento Front End: do zero ao primero site**, ofertado pelo grupo <a href="https://www.maisprati.com.br/" target="_blank">+praTI</a>.
 
-A proposta é criar um site onepage/portólio com os conhecimentos adquiridos no curso, como HTML, CSS, JavaScript, Bootstrap e publicar no GitHub.
+A proposta é criar um site onepage/portfólio com os conhecimentos adquiridos no curso, como HTML, CSS, JavaScript, Bootstrap e publicar no GitHub.
 
 **Veja o site do projeto final em** <a href="https://rudineiw.github.io/portfolio-happycode/" target="_blank">https://rudineiw.github.io/portfolio-happycode/</a>.
 
